@@ -13,9 +13,9 @@ After you have selected your product you will be asked how many you would like. 
 
 The app will then show you your total and tell you your order is on the way!![bash](images/fourth.PNG). Once your purchase is made, you will be asked if you would like to make another purchase
 
-If you select more units of the product than are available it will tell you the order cant be complete.![bash](images/none.PNG)
+If you select more units of the product than are available it will tell you the order cant be complete.![bash](images/loop.PNG)
 
-If you choose yes it will start the process over ![bash](images/fifth.PNG). If you choose no, the connection will end ![bash](images/sixth.PNG).
+If you choose yes it will start the process over ![bash](images/fifth.PNG). If you choose no, the connection will end ![bash](images/six.PNG).
 
 ## Need Help?
 
